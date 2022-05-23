@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bouyahizakaria/state-checkpoint/static/css/main.32f0c171.chunk.css",
+    "main.js": "/bouyahizakaria/state-checkpoint/static/js/main.e3bcda6e.chunk.js",
+    "main.js.map": "/bouyahizakaria/state-checkpoint/static/js/main.e3bcda6e.chunk.js.map",
+    "runtime-main.js": "/bouyahizakaria/state-checkpoint/static/js/runtime-main.6ecf8199.js",
+    "runtime-main.js.map": "/bouyahizakaria/state-checkpoint/static/js/runtime-main.6ecf8199.js.map",
+    "static/js/2.ee91bbe5.chunk.js": "/bouyahizakaria/state-checkpoint/static/js/2.ee91bbe5.chunk.js",
+    "static/js/2.ee91bbe5.chunk.js.map": "/bouyahizakaria/state-checkpoint/static/js/2.ee91bbe5.chunk.js.map",
+    "static/js/3.e54337d4.chunk.js": "/bouyahizakaria/state-checkpoint/static/js/3.e54337d4.chunk.js",
+    "static/js/3.e54337d4.chunk.js.map": "/bouyahizakaria/state-checkpoint/static/js/3.e54337d4.chunk.js.map",
+    "index.html": "/bouyahizakaria/state-checkpoint/index.html",
+    "static/css/main.32f0c171.chunk.css.map": "/bouyahizakaria/state-checkpoint/static/css/main.32f0c171.chunk.css.map",
+    "static/js/2.ee91bbe5.chunk.js.LICENSE.txt": "/bouyahizakaria/state-checkpoint/static/js/2.ee91bbe5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ecf8199.js",
+    "static/js/2.ee91bbe5.chunk.js",
+    "static/css/main.32f0c171.chunk.css",
+    "static/js/main.e3bcda6e.chunk.js"
+  ]
+}
